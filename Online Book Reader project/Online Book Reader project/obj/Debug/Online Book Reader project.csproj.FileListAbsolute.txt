@@ -1,0 +1,7 @@
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\bin\Debug\Online Book Reader project.exe.config
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\bin\Debug\Online Book Reader project.exe
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\bin\Debug\Online Book Reader project.pdb
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\obj\Debug\Online Book Reader project.csproj.AssemblyReference.cache
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\obj\Debug\Online Book Reader project.csproj.CoreCompileInputs.cache
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\obj\Debug\Online Book Reader project.exe
+C:\Users\T-BOX\source\repos\Online Book Reader project\Online Book Reader project\obj\Debug\Online Book Reader project.pdb
